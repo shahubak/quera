@@ -1,2 +1,2 @@
 # quera
-حل سوالات
+we solved quera problems in this repository
